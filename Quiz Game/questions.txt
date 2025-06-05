@@ -1,0 +1,745 @@
+[
+    {
+        "question": "What is the output of 'typeof null' in JavaScript?",
+        "options": ["'null'", "'object'", "'undefined'", "'number'"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Which HTTP method is idempotent?",
+        "options": ["POST", "PUT", "PATCH", "DELETE"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the default port for an Express.js app?",
+        "options": ["3000", "8000", "8080", "5000"],
+        "ans": [0, "A", "a"]
+    },
+    {
+        "question": "Which of these is a valid Python lambda function?",
+        "options": ["lambda x: x + 1", "def x: return x+1", "fn(x) = x + 1", "lambda x x+1"],
+        "ans": [0, "A", "a"]
+    },
+    {
+        "question": "Which tag is used to create a dropdown in HTML?",
+        "options": ["<input>", "<dropdown>", "<select>", "<option>"],
+        "ans": [2, "C", "c"]
+    },
+    {
+        "question": "Which command installs a package globally in Node.js?",
+        "options": ["npm install -g", "npm get", "node install", "npm global"],
+        "ans": [0, "A", "a"]
+    },
+    {
+        "question": "In TailwindCSS, what class applies margin on all sides?",
+        "options": ["m-4", "p-4", "mx-4", "my-4"],
+        "ans": [0, "A", "a"]
+    },
+    {
+        "question": "Which keyword is used to define a constant in JavaScript?",
+        "options": ["var", "let", "const", "define"],
+        "ans": [2, "C", "c"]
+    },
+    {
+        "question": "What is the output of: `print('5' + '5')` in Python?",
+        "options": ["10", "55", "TypeError", "None"],
+        "ans": [1, "B", "b"]
+    },
+    {
+        "question": "Which status code indicates 'Not Found'?",
+        "options": ["200", "403", "404", "500"],
+        "ans": [2, "C", "c"]
+    },
+    {
+        "question": "What does CLI stand for?",
+        "options": ["Command Line Interface", "Client Line Internet", "Code Line Interface", "Console Line Interceptor"],
+        "ans": [0, "A", "a"]
+    },
+    {
+        "question": "Which Python keyword is used for exception handling?",
+        "options": ["catch", "except", "try", "throw"],
+        "ans": [2, "C", "c"]
+    },
+    {
+        "question": "Which HTML element is used to include JavaScript?",
+        "options": ["<script>", "<js>", "<javascript>", "<code>"],
+        "ans": [0, "A", "a"]
+    },
+    {
+        "question": "How do you declare an arrow function in JS?",
+        "options": ["function => {}", "() => {}", "fn() {}", "arrow() -> {}"],
+        "ans": [1, "B", "b"]
+    },
+    {
+        "question": "Which of the following is a CSS pseudo-class?",
+        "options": [":hover", "::after", "::before", "::root"],
+        "ans": [0, "A", "a"]
+    },
+    {
+        "question": "In Python, what does `len([1, 2, 3])` return?",
+        "options": ["2", "3", "4", "Error"],
+        "ans": [1, "B", "b"]
+    },
+    {
+        "question": "What is returned by `typeof []` in JS?",
+        "options": ["object", "array", "list", "undefined"],
+        "ans": [0, "A", "a"]
+    },
+    {
+        "question": "Which command initializes a new Node.js project?",
+        "options": ["npm start", "npm init", "node init", "npm new"],
+        "ans": [1, "B", "b"]
+    },
+    {
+        "question": "What is the Tailwind class for flexbox layout?",
+        "options": ["flexbox", "d-flex", "display-flex", "flex"],
+        "ans": [3, "D", "d"]
+    },
+    {
+        "question": "Which method removes the last item of a JS array?",
+        "options": ["shift()", "slice()", "pop()", "splice()"],
+        "ans": [2, "C", "c"]
+    },
+    {
+        "question": "Which operator checks both value and type in JS?",
+        "options": ["==", "!=", "===", "~="],
+        "ans": [2, "C", "c"]
+    },
+    {
+        "question": "Which Python structure uses key-value pairs?",
+        "options": ["List", "Tuple", "Set", "Dictionary"],
+        "ans": [3, "D", "d"]
+    },
+    {
+        "question": "What is the CLI command to start an Express app?",
+        "options": ["npm express start", "express start", "node app.js", "npm run express"],
+        "ans": [2, "C", "c"]
+    },
+    {
+        "question": "Which Tailwind class makes text bold?",
+        "options": ["text-bold", "bold", "font-bold", "font-strong"],
+        "ans": [2, "C", "c"]
+    },
+    {
+        "question": "Which function converts a string to integer in Python?",
+        "options": ["parseInt()", "int()", "toInt()", "number()"],
+        "ans": [1, "B", "b"]
+    },
+    {
+        "question": "What does `JSON.stringify()` do?",
+        "options": ["Parses JSON", "Converts JS object to string", "Validates JSON", "Creates JSON"],
+        "ans": [1, "B", "b"]
+    },
+    {
+        "question": "Which selector selects all elements with a class in CSS?",
+        "options": ["#", ".", "*", "&"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Which tag is self-closing in HTML?",
+        "options": ["<div>", "<img>", "<p>", "<span>"],
+        "ans": [1, "B", "b"]
+    },
+    {
+        "question": "Which file is the entry point for a Node.js app?",
+        "options": ["package.json", "index.html", "server.js", "app.js"],
+        "ans": [3, "D", "d"]
+    },
+    {
+        "question": "Which terminal command clears the screen?",
+        "options": ["clear", "cls", "reset", "clean"],
+        "ans": [0, "A", "a"]
+    },
+    {
+        "question": "What is the output of 'typeof null' in JavaScript?",
+        "options": ["'null'", "'object'", "'undefined'", "'number'"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Who is known as the father of modern computers?",
+        "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What does CPU stand for in computer terms?",
+        "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Control Processing Unit"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What year was the first iPhone released?",
+        "options": ["2005", "2007", "2008", "2010"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "In Python, what data type is returned by the expression: 3 / 2?",
+        "options": ["int", "float", "str", "bool"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Which company developed the Android operating system?",
+        "options": ["Apple", "Microsoft", "Google", "IBM"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["0", "1", "2", "3"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Gold", "Osmium", "Oganesson"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Who wrote the novel '1984'?",
+        "options": ["Aldous Huxley", "George Orwell", "J.K. Rowling", "Mark Twain"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "options": ["HyperText Transfer Protocol", "Hyperlink Transfer Protocol", "HyperText Transmission Program", "Hyperlink Transmission Protocol"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the result of 2 to the power of 5?",
+        "options": ["10", "25", "32", "64"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "Which programming language is primarily used for iOS app development?",
+        "options": ["Java", "Swift", "Kotlin", "Python"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Venus", "Mars", "Jupiter"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "Which famous entrepreneur founded Tesla and SpaceX?",
+        "options": ["Jeff Bezos", "Elon Musk", "Mark Zuckerberg", "Bill Gates"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the capital city of Japan?",
+        "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "In logic puzzles, what does the term 'Deductive reasoning' mean?",
+        "options": ["Drawing conclusions from specific cases", "Forming hypotheses", "Deriving conclusions from general principles", "Guessing outcomes"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "What is the main function of DNS in the internet?",
+        "options": ["Translate domain names to IP addresses", "Encrypt data", "Route emails", "Block spam"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which of these is NOT a programming paradigm?",
+        "options": ["Object-oriented", "Functional", "Procedural", "Musical"],
+        "ans": [3, "D"]
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Remote Access Memory"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "options": ["China", "Brazil", "UK", "Russia"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of 'typeof null' in JavaScript?",
+        "options": ["'null'", "'object'", "'undefined'", "'number'"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of 'console.log(2 + '2')' in JavaScript?",
+        "options": ["4", "'22'", "NaN", "Error"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What does 'HTML' stand for?",
+        "options": ["HyperText Markup Language", "Hyper Transfer Markup Language", "Hyperlink Text Mark Language", "Hyperlink Text Markup Language"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What will be the output of the following Python code?\n\nprint(bool('False'))",
+        "options": ["True", "False", "None", "Error"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which one is NOT a JavaScript framework?",
+        "options": ["React", "Django", "Angular", "Vue"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of 'print(0.1 + 0.2 == 0.3)' in Python?",
+        "options": ["True", "False", "Error", "None"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "In a joke: Why do programmers always mix up Halloween and Christmas?",
+        "options": ["Because Oct 31 == Dec 25", "Because both are holidays", "Because they like candy", "Because they love to party"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "What is the output of 'console.log(typeof NaN)' in JavaScript?",
+        "options": ["'number'", "'NaN'", "'undefined'", "'object'"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which of these is the largest planet in the Solar System?",
+        "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What will the following code output?\n\nprint('Python'[::-1])",
+        "options": ["nohtyP", "Python", "Error", "nothyP"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which programming language is known for its snake logo?",
+        "options": ["Python", "Java", "Ruby", "C++"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What will be the output of this JavaScript code?\n\nconsole.log(0 == '0');",
+        "options": ["true", "false", "Error", "undefined"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the boiling point of water at sea level (in Celsius)?",
+        "options": ["100", "90", "80", "110"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of the following code in Python?\n\nprint(10 // 3)",
+        "options": ["3", "3.33", "4", "Error"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which country invented pizza?",
+        "options": ["France", "Italy", "USA", "Spain"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What will be the output of the code?\n\nprint(type([]) is list)",
+        "options": ["True", "False", "Error", "None"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which company is known for the search engine 'Bing'?",
+        "options": ["Google", "Microsoft", "Yahoo", "Apple"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of 'print(5 & 3)' in Python? (Bitwise AND)",
+        "options": ["1", "2", "3", "0"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Why do programmers prefer dark mode?",
+        "options": ["It's cooler", "It saves battery", "Because light attracts bugs", "It looks better"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "What is the output of 'print(len('Hello World'))' in Python?",
+        "options": ["11", "10", "12", "Error"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the name of Elon Musk’s space exploration company?",
+        "options": ["SpaceX", "Blue Origin", "Virgin Galactic", "NASA"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which protocol is used to send emails?",
+        "options": ["HTTP", "FTP", "SMTP", "DNS"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "What is the output of the following JavaScript?\n\nconsole.log([] + []);",
+        "options": ["'' (empty string)", "'undefined'", "'null'", "'object'"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which famous tech leader dropped out of Harvard to start a company?",
+        "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Larry Page"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "What is the name of the first electronic general-purpose computer?",
+        "options": ["ENIAC", "UNIVAC", "Colossus", "Altair"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which programming language was created by Guido van Rossum?",
+        "options": ["Java", "Python", "C#", "Ruby"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of 'print(3 ** 3)' in Python?",
+        "options": ["6", "9", "27", "81"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "What does 'SQL' stand for?",
+        "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Language", "Standard Query Language"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which animal is known as the 'King of the Jungle'?",
+        "options": ["Tiger", "Lion", "Elephant", "Leopard"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What will be the output of this code?\n\nprint('abc' * 3)",
+        "options": ["abcabcabc", "abc3", "Error", "abc abc abc"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": ["Monaco", "Vatican City", "Nauru", "San Marino"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What does 'HTTP' stand for?",
+        "options": ["HyperText Transfer Protocol", "HyperText Transmission Program", "Hyper Transfer Text Protocol", "Hyperlink Transfer Protocol"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which of the following is NOT a JavaScript data type?",
+        "options": ["Boolean", "Number", "Float", "Undefined"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "What is the output of the following JavaScript code?\n\nconsole.log(typeof NaN === 'number');",
+        "options": ["true", "false", "undefined", "error"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Who invented the World Wide Web?",
+        "options": ["Tim Berners-Lee", "Bill Gates", "Steve Jobs", "Mark Zuckerberg"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of this Python code?\n\nprint([1, 2, 3] + [4, 5])",
+        "options": ["[1, 2, 3, 4, 5]", "[5, 7, 8]", "Error", "[1, 2, 3][4, 5]"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What does 'API' stand for?",
+        "options": ["Application Programming Interface", "Applied Program Interface", "Application Program Interaction", "Advanced Programming Interface"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of 'print(type(None))' in Python?",
+        "options": ["<class 'NoneType'>", "<class 'null'>", "None", "Error"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of the following JavaScript code?\n\nconsole.log(!!null);",
+        "options": ["true", "false", "null", "undefined"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Which programming language is often used for statistical computing and graphics?",
+        "options": ["Python", "R", "Java", "C++"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of this code?\n\nprint(5 == 5.0)",
+        "options": ["True", "False", "Error", "None"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Why did the developer go broke?",
+        "options": ["Because he used up all his cache", "Because he forgot to save", "Because he had no internet", "Because he lost his keys"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of this JavaScript code?\n\nconsole.log('5' - 3);",
+        "options": ["2", "'2'", "NaN", "Error"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the square root of 144?",
+        "options": ["11", "12", "13", "14"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of this Python snippet?\n\nprint(bool([]))",
+        "options": ["True", "False", "None", "Error"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Which of these companies was founded first?",
+        "options": ["Apple", "Microsoft", "Google", "Facebook"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What does 'GUI' stand for?",
+        "options": ["Graphical User Interface", "Global User Interface", "General User Interaction", "Graphical Utility Interface"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Why do Java developers wear glasses?",
+        "options": ["Because they can't C#", "Because they love Java", "Because they see in black and white", "Because they have bad eyesight"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of this JavaScript code?\n\nconsole.log(typeof undefined);",
+        "options": ["'undefined'", "'object'", "'null'", "'boolean'"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What does 'JSON' stand for?",
+        "options": ["JavaScript Object Notation", "Java Standard Output Network", "JavaScript Online Network", "Java Simple Object Notation"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What will be the output?\n\nprint('Hello' * 2)",
+        "options": ["HelloHello", "Hello 2", "Error", "Hello*2"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Who is known as the inventor of Linux?",
+        "options": ["Linus Torvalds", "Richard Stallman", "Bill Gates", "Steve Jobs"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of this Python snippet?\n\nprint(7 % 3)",
+        "options": ["1", "2", "3", "0"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Why was the JavaScript developer sad?",
+        "options": ["Because he didn't Node how to Express himself", "Because he lost his keys", "Because he had no friends", "Because he missed semicolons"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which is NOT a valid Python data type?",
+        "options": ["int", "string", "float", "character"],
+        "ans": [3, "D"]
+    },
+    {
+        "question": "What is the output of the following code?\n\nprint(2 ** 4)",
+        "options": ["8", "16", "6", "4"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": ["Saturn", "Jupiter", "Mars", "Neptune"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of 'print(type(10 / 2))' in Python?",
+        "options": ["<class 'int'>", "<class 'float'>", "<class 'str'>", "<class 'bool'>"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Who founded Microsoft?",
+        "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Larry Page"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of the following JavaScript?\n\nconsole.log(3 > 2 > 1);",
+        "options": ["true", "false", "undefined", "error"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the result of the expression: 3 + 4 * 2 in most programming languages?",
+        "options": ["14", "11", "10", "7"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Why did the computer get cold?",
+        "options": ["Because it forgot to close Windows", "Because it lost its heat sink", "Because the fan stopped", "Because it was night"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of this Python code?\n\nprint(''.join(['a', 'b', 'c']))",
+        "options": ["abc", "a b c", "['a','b','c']", "Error"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which language is used to style web pages?",
+        "options": ["HTML", "Python", "CSS", "Java"],
+        "ans": [2, "C"]
+    },
+    {
+        "question": "What does 'IDE' stand for in programming?",
+        "options": ["Integrated Development Environment", "Interactive Development Environment", "Internal Development Engine", "Integrated Design Environment"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of 'print(2 == 2.0)' in Python?",
+        "options": ["True", "False", "Error", "None"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the square of 12?",
+        "options": ["144", "124", "134", "154"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What will this JavaScript output?\n\nconsole.log([] == ![]);",
+        "options": ["true", "false", "error", "undefined"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Who is the founder of Facebook?",
+        "options": ["Elon Musk", "Mark Zuckerberg", "Bill Gates", "Steve Jobs"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of 'print(4 // 2)' in Python?",
+        "options": ["2", "2.0", "1", "Error"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which of these is a Python keyword?",
+        "options": ["function", "def", "var", "classify"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Why do programmers hate nature?",
+        "options": ["Too many bugs", "No WiFi", "Too sunny", "Too noisy"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What will be the output of this Python code?\n\nprint(10 / 5)",
+        "options": ["2.0", "2", "Error", "5"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of the following JavaScript code?\n\nconsole.log(1 + '2' + 3);",
+        "options": ["33", "'123'", "6", "'15'"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What does 'OOP' stand for?",
+        "options": ["Object-Oriented Programming", "Open-Source Programming", "Overloaded Operator Programming", "Object-Oriented Procedure"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Who is the CEO of Tesla as of 2025?",
+        "options": ["Jeff Bezos", "Elon Musk", "Bill Gates", "Mark Zuckerberg"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of 'print(type( (1,) ))' in Python?",
+        "options": ["<class 'tuple'>", "<class 'list'>", "<class 'int'>", "<class 'dict'>"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of the following JavaScript?\n\nconsole.log(typeof []);",
+        "options": ["'object'", "'array'", "'list'", "'undefined'"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the main language used to create Android apps?",
+        "options": ["Swift", "Kotlin", "JavaScript", "Ruby"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "Which is NOT a Python data structure?",
+        "options": ["List", "Tuple", "Set", "ArrayList"],
+        "ans": [3, "D"]
+    },
+    {
+        "question": "What is the output of the following code?\n\nprint('10' * 2)",
+        "options": ["1010", "20", "Error", "10 10"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Why did the programmer quit his job?",
+        "options": ["Because he didn't get arrays (a raise)", "Because he was bored", "Because of long hours", "Because of bugs"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What does 'DNS' stand for?",
+        "options": ["Domain Name System", "Data Network Service", "Domain Network Server", "Data Name System"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What will be the output of this JavaScript snippet?\n\nconsole.log(null == undefined);",
+        "options": ["true", "false", "error", "undefined"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which company created the Windows operating system?",
+        "options": ["Google", "Microsoft", "Apple", "IBM"],
+        "ans": [1, "B"]
+    },
+    {
+        "question": "What is the output of 'print(3 > 2 and 2 > 3)' in Python?",
+        "options": ["False", "True", "Error", "None"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Which of the following is NOT a search engine?",
+        "options": ["Google", "Bing", "DuckDuckGo", "GitHub"],
+        "ans": [3, "D"]
+    },
+    {
+        "question": "What is the output of the following Python code?\n\nprint([].append(1))",
+        "options": ["None", "[1]", "Error", "1"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Why did the developer go broke?",
+        "options": ["Because he used up all his cache", "Because he forgot to save", "Because his code didn't compile", "Because he lost his keys"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of 'print(bool(0))' in Python?",
+        "options": ["False", "True", "None", "Error"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of the following JavaScript?\n\nconsole.log(typeof function() {});",
+        "options": ["'function'", "'object'", "'undefined'", "'null'"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of 'print(1 != 2)' in Python?",
+        "options": ["True", "False", "Error", "None"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Who invented the C programming language?",
+        "options": ["Dennis Ritchie", "Bjarne Stroustrup", "James Gosling", "Guido van Rossum"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "What is the output of 'print(2 < 3 < 4)' in Python?",
+        "options": ["True", "False", "Error", "None"],
+        "ans": [0, "A"]
+    },
+    {
+        "question": "Why do programmers always confuse Christmas and Halloween?",
+        "options": ["Because Oct 31 == Dec 25", "Because both are holidays", "Because they love candy", "Because they love to party"],
+        "ans": [0, "A"]
+    }
+]
+
+
+
