@@ -155,26 +155,4 @@ while True:
     cprint(f"You Score Is {Points}, You Solved {Points} Words","white",attrs=["bold"])
     print()
     
-    
-    
-
-# My GAME CODE ##########################
-# cprint(figlet("Hangman"),"blue")
-# cprint("Enter 'Ctrl + C' or '^C'at any time to quit.\n","red")
-
-# words = ("batman", "pushkar", "hero")
-# word = words[random.randint(0, len(words) - 1)]
-# guessed_word = ['_' for _ in word]
-
-
-# while "_" in guessed_word:
-#     print(guessed_word)
-#     usrGuess = input(colored("Guess A Letter: ","yellow")).lower()
-
-#     for i in range(len(word)):
-#         if usrGuess == word[i]:
-#             guessed_word[i] = usrGuess
-
-# cprint(guessed_word)
-# cprint(f"Congrulation You Complete The Word {word}","green")
 
